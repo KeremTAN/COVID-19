@@ -1,0 +1,15 @@
+C:\Users\kerem\Desktop\Advance\Covid19\covid-19\bin\Debug\covid-19.exe.config
+C:\Users\kerem\Desktop\Advance\Covid19\covid-19\bin\Debug\covid-19.exe
+C:\Users\kerem\Desktop\Advance\Covid19\covid-19\bin\Debug\covid-19.pdb
+C:\Users\kerem\Desktop\Advance\Covid19\covid-19\obj\Debug\covid-19.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Desktop\Advance\Covid19\covid-19\obj\Debug\covid-19.exe
+C:\Users\kerem\Desktop\Advance\Covid19\covid-19\obj\Debug\covid-19.pdb
+C:\Users\kerem\Desktop\Advance\Covid19\covid-19\obj\Debug\covid-19.csprojAssemblyReference.cache
+C:\Users\kerem\Desktop\Covid19\covid-19\bin\Debug\covid-19.exe.config
+C:\Users\kerem\Desktop\Covid19\covid-19\bin\Debug\covid-19.exe
+C:\Users\kerem\Desktop\Covid19\covid-19\bin\Debug\covid-19.pdb
+C:\Users\kerem\Desktop\Covid19\covid-19\obj\Debug\covid-19.csproj.AssemblyReference.cache
+C:\Users\kerem\Desktop\Covid19\covid-19\obj\Debug\covid-19.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerem\Desktop\Covid19\covid-19\obj\Debug\covid-19.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Desktop\Covid19\covid-19\obj\Debug\covid-19.exe
+C:\Users\kerem\Desktop\Covid19\covid-19\obj\Debug\covid-19.pdb
